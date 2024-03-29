@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blazor<br>👯 I’m looking to collaborate on Javascript projects<br>🌱 I’m currently learning React, Nest
+🔭 I’m currently working on Blazor<br>👯 I’m looking to collaborate on Javascript projects<br>🌱 I’m currently learning React, Nest & Next
 
 
 ## 🌐 Socials:
